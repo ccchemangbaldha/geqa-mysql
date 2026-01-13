@@ -1,7 +1,7 @@
 ---
 title: Geqa Mysql
 emoji: 🦀
-colorFrom: purple
+colorFrom: blue
 colorTo: indigo
 sdk: docker
 pinned: false
